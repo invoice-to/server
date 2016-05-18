@@ -1,8 +1,8 @@
-package server
+package main
 
 import (
 	"fmt"
-	"http"
+	"net/http"
 )
 
 func init() {
