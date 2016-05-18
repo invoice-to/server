@@ -1,3 +1,5 @@
+.DS_Store
+config.go
 
 # Created by https://www.gitignore.io/api/go
 
